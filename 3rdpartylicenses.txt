@@ -357,11 +357,11 @@ highcharts@6.1.1
 https://www.highcharts.com/license
 https://www.highcharts.com/license
 
-bignumber.js@5.0.0
+bignumber.js@8.0.1
 MIT
 The MIT Licence.
 
-Copyright (c) 2017 Michael Mclaughlin
+Copyright (c) 2018 Michael Mclaughlin
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
